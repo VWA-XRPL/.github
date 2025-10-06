@@ -105,9 +105,7 @@ Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines o
 
 ### 📱 Social Media
 - **Website**: [https://vwa.to](https://vwa.to)
-- **Discord**: [Join our Community](https://discord.gg/vwa)
-- **Twitter**: [@VWA_Token](https://twitter.com/VWA_Token)
-- **Telegram**: [@VWA_Official](https://t.me/VWA_Official)
+- **Twitter**: [@vanguardrwa](https://x.com/vanguardrwa)
 
 ### 📧 Contact & Support
 - **General Inquiries**: info@vwa.to
