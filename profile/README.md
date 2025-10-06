@@ -31,7 +31,7 @@ By utilizing established blockchain platforms like **Solana** and **XRP Ledger**
 This organization hosts several repositories, each focusing on different aspects of the VWA ecosystem:
 
 ### 🏗️ Core Repositories
-- **[VWA-XRPL](https://github.com/vwa-org/vwa-xrpl)**: Precious asset tokenization platform on Solana
+- **[VWA-XRPL](https://github.com/VWA-XRPL/VWA-XRPL)**: Precious asset tokenization platform on Solana
   - Solana smart contracts for asset tokenization
   - FastAPI backend with comprehensive APIs
   - React frontend with trading interface
@@ -50,7 +50,7 @@ This organization hosts several repositories, each focusing on different aspects
 To begin exploring or contributing to VWA:
 
 ### 🚀 Quick Start
-1. **Clone the VWA-XRPL Repository**: `git clone https://github.com/vwa-org/vwa-xrpl.git`
+1. **Clone the VWA-XRPL Repository**: `git clone https://github.com/VWA-XRPL/VWA-XRPL.git`
 2. **Start with Docker**: `docker-compose up -d` (see repository README for details)
 3. **Access the Platform**: 
    - Frontend: http://localhost:3000
@@ -58,7 +58,6 @@ To begin exploring or contributing to VWA:
    - API Documentation: http://localhost:8000/docs
 
 ### 📖 Documentation
-- **Platform Docs**: Visit [https://vwa.to/docs](https://vwa.to/docs) for comprehensive guides
 - **API Reference**: Interactive API documentation at `/docs` endpoint
 - **Smart Contract Docs**: Available in each repository's documentation
 
@@ -106,12 +105,6 @@ Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines o
 ### 📱 Social Media
 - **Website**: [https://vwa.to](https://vwa.to)
 - **Twitter**: [@vanguardrwa](https://x.com/vanguardrwa)
-
-### 📧 Contact & Support
-- **General Inquiries**: info@vwa.to
-- **Technical Support**: support@vwa.to
-- **Partnership Opportunities**: partnerships@vwa.to
-- **Press & Media**: press@vwa.to
 
 ### 📊 Project Status
 - **Current Phase**: Precious Asset Tokenization (MVP)
